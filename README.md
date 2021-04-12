@@ -1,4 +1,4 @@
-### Hi there. My name is Ivan Branimir 👋
+# Hi there. My name is Ivan Branimir 👋
 
 ## About me
 Location: Republic of Ireland 🇮🇪  
