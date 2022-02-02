@@ -2,7 +2,7 @@
 
 ## About me
 Location: Republic of Ireland 🇮🇪  
-<br>
+
 College: Griffith College Dublin
 
 Course: Computer Science 
