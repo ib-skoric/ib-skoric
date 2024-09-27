@@ -3,4 +3,4 @@
 ## About me
 Location: Dublin 🇮🇪  
 
-CSE @ Intercom 🚀
+Senior TSE @ Intercom 🚀
