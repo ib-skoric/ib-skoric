@@ -3,4 +3,4 @@
 ## About me
 Location: Dublin 🇮🇪  
 
-Senior TSE @ Intercom 🚀
+Product Engineer @ Intercom 🚀
